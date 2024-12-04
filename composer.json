@@ -1,0 +1,20 @@
+{
+    "version": "1.0.0",
+    "name": "usuario/examen031224",
+    "description": "Examen Diciembre24",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Usuario Daw",
+            "email": "usuariodaw@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
